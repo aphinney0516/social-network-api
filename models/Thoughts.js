@@ -1,6 +1,7 @@
 const { Schema, model } = require('mongoose');
 const reactionSchema = require('./Reactions');
-// Schema to create Student model
+
+// Schema to create thought model
 const thoughtSchema = new Schema(
   {
     thoughtText: {
@@ -22,6 +23,7 @@ const thoughtSchema = new Schema(
     toJSON: {
       getters: true,
     },
+    id: false
   }
 );
 
