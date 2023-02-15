@@ -19,7 +19,7 @@ This project is intended to be the backend for a basic social network api. It pr
 As this is only the backend, you would need node, insomnia, and the code in order to run it.
 
 ### Usage
-You would use this project to post your thoughts online, add new friends, and see the thoughts of others. Please view the [demo video](https://youtu.be/Nmbc04KUZGM)
+You would use this project to post your thoughts online, add new friends, and see the thoughts of others. Please view the [demo video](https://youtu.be/Nmbc04KUZGM).
 
 ### Credits
 I had some assistance in starting the routes from my tutor Corey Yates.
